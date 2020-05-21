@@ -1,0 +1,26 @@
+TESTING H07--bporter11
+----------------------------------------------------------------------
+Checking function: sumNums("str") -------------------
+   + sumNums("wb4x")->4
+   + sumNums("69p2798")->2867
+   + sumNums("a5r8rfl")->13
+   + sumNums("dhvj7y365ut85019")->85391
+   + sumNums("hdv00lb324eie")->324
+   + sumNums("ln5g9")->14
+   + sumNums("k05485o27672o")->33157
+   + sumNums("t93f2v8c721")->824
+   + sumNums("r11v57d12x")->80
+   + sumNums("i3i110h9")->122
+   + sumNums("yl39x")->39
+   + sumNums("gepy")->0
+   + sumNums("4p5q4g49o7j0")->69
+   + sumNums("we69a9es6l449")->533
+   + sumNums("ase06xj")->6
+   + sumNums("6227326n73g2")->6227401
+----------------------------------------------------------------------
+  Tests passing 16/16 (100%).
+
+----------------------------------------------------------------------
+H07:bporter11:ALL TESTS -- PASS 16/16 (100%).
+----------------------------------------------------------------------
+MTU2ODY3NzQ1NjpicG9ydGVyMTE6SDA3OjEwMC4wMCU=

@@ -1,0 +1,35 @@
+TESTING H10--bporter11
+----------------------------------------------------------------------
+Checking function: read with int -------------------
+   + Prompt printed: Success
+   + Bad input checked
+   + Age set correctly->42
+   + Good input checked
+   + Trailing input retained
+----------------------------------------------------------------------
+  Tests passing 5/5 (100%).
+
+Checking function: read (with double) -------------------
+   + Prompt printed: Success
+   + Bad input checked
+   + GPA set correctly; gpa
+   + Good input checked
+   + Trailing input discarded
+----------------------------------------------------------------------
+  Tests passing 5/5 (100%).
+
+Checking function: read (with string) -------------------
+   + Prompt printed: Success
+   + Reads whole name: Success
+   X Reads one word: expected [Stephen] but found [Stephen Dean Gilbert]
+Checking function: read (with string) -------------------
+   + Read sentinel, return false
+   + Not sentinel, return true
+   + Correctly set ch when reading->43
+----------------------------------------------------------------------
+  Tests passing 3/3 (100%).
+
+----------------------------------------------------------------------
+H10:bporter11:ALL TESTS -- PASS 13/13 (100%).
+----------------------------------------------------------------------
+MTU2OTQ0OTA4MDpicG9ydGVyMTE6SDEwOjEwMC4wMCU=

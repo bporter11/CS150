@@ -1,0 +1,40 @@
+TESTING H13--bporter11
+----------------------------------------------------------------------
+Checking function: dataSets -------------------
+   + data/ds0.txt output lines->0->0
+   + data/notfound.txt output lines->1->1
+   + Line #1.->data/notfound.txt cannot be opened.
+   + data/ds8.txt output lines->5->5
+   + Line #1.->data set 1: total values = 13
+   + Line #2.->average value = 4.5077
+   + Line #3.->
+   + Line #4.->data set 2: total values = 13
+   + Line #5.->average value = 5.2308
+   + data/ds5.txt output lines->14->14
+   + Line #1.->data set 1: total values = 21
+   + Line #2.->average value = 2.7571
+   + Line #3.->
+   + Line #4.->data set 2: total values = 9
+   + Line #5.->average value = 6.4667
+   + data/ds1.txt output lines->2->2
+   + Line #1.->data set 1: total values = 19
+   + Line #2.->average value = 5.4632
+   + data/ds11.txt output lines->5->5
+   + Line #1.->data set 1: total values = 7
+   + Line #2.->average value = 5.2429
+   + Line #3.->
+   + Line #4.->data set 2: total values = 8
+   + Line #5.->average value = 6.7000
+   + data/ds13.txt output lines->17->17
+   + Line #1.->data set 1: total values = 4
+   + Line #2.->average value = 4.8000
+   + Line #3.->
+   + Line #4.->data set 2: total values = 13
+   + Line #5.->average value = 6.0538
+----------------------------------------------------------------------
+  Tests passing 30/30 (100%).
+
+----------------------------------------------------------------------
+H13:bporter11:ALL TESTS -- PASS 30/30 (100%).
+----------------------------------------------------------------------
+MTU3MDEzNzExMzpicG9ydGVyMTE6SDEzOjEwMC4wMCU=
