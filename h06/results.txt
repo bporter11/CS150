@@ -1,0 +1,25 @@
+TESTING H06--bporter11
+----------------------------------------------------------------------
+Checking function: toFrenchGender("country") -------------------
+   + toFrenchGender("Surinam")->le Surinam
+   + toFrenchGender("Colombie")->la Colombie
+   + toFrenchGender("Pays-Bas")->les Pays-Bas
+   + toFrenchGender("Bolivie")->la Bolivie
+   + toFrenchGender("Irelande")->l'Irelande
+   + toFrenchGender("iles Malouines")->les iles Malouines
+   + toFrenchGender("Andorre")->l'Andorre
+   + toFrenchGender("Philippines")->les Philippines
+   + toFrenchGender("Etats-Unis")->les Etats-Unis
+   + toFrenchGender("Perou")->le Perou
+   + toFrenchGender("Norvege")->la Norvege
+   + toFrenchGender("Liechtenstein")->le Liechtenstein
+   + toFrenchGender("Monaco")->Monaco
+   + toFrenchGender("Cyprus")->Cyprus
+   + toFrenchGender("Costa Rica")->le Costa Rica
+----------------------------------------------------------------------
+  Tests passing 15/15 (100%).
+
+----------------------------------------------------------------------
+H06:bporter11:ALL TESTS -- PASS 15/15 (100%).
+----------------------------------------------------------------------
+MTU2ODUyMTA0MDpicG9ydGVyMTE6SDA2OjEwMC4wMCU=
